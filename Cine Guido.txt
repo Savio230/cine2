@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+    "updateDate": "2020-09-09T08:00:00.0Z",
+    "titleText": "Michael Rosembaun",
+    "mainText": "Michael Rosembaun o Luthor de Smallville, anunciou que está com câncer de pele. Segundo o ator, o câncer foi descoberto no estágio inicial e uma cirurgia já foi marcada. Michael Rosembaun interpretou Martinex em Guardiões das Galáxias 2",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2020-09-09T08:00:01.0Z",
+    "titleText": "Missão Impossível 7",
+    "mainText": "Um vídeo com o Tom Cruise percorrendo uma rampa de moto, saltando e depois caindo e abrindo um paraquedas viralizou na internet. O vídeo faz supostamente parte das gravações do filme Missão Impossível 7. Os filmes Missão Impossível 7 e 8 estão sendo filmado juntos e o sétimo filme da franquia chega aos cinemas em 18 de novembro de 2021. A parte 8 já tem estreia agendada para 3 de novembro de 2022.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+    "updateDate": "2020-09-09T08:00:02.0Z",
+    "titleText": "Scarface (Remake)",
+    "mainText": "Um remake do clássico Scarface de 1932 e depois refilmado em 1983 com Al Pacino e dirigido por Brian de Palma está a caminho. O nova versão será dirigida pelo cineasta italiano Luca Guadagnino que disse que quer que seu filme seja tão violento quanto os seus antecessores e portanto ele vai querer um bom roteiro, um bom ator e bastante violência. Luca Guadagnino recentemente refilmou o clássico Suspiria de Dário Argento. ",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
+    "updateDate": "2020-09-09T08:00:03.0Z",
+    "titleText": "Tenet",
+    "mainText": "Tenet pode ser considerado o primeiro blockbuster a estrear durante a pandemia. O filme do diretor Christopher Nolan arrecadou 150 milhões mundialmente. Tenet foi lançado em 44 países e arrecadou bem na China, Reino Unido, França e Rússia. O filme ainda deve estrear em dois grandes mercados, México e Japão. Além claro do mercado americano que continua que com grande parte dos cinemas fechados. Todos na indústria de cinema estão de olho no desempenho de Tenet, pois ele vai servir de parâmetro para os próximos lançamentos.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_5",
+    "updateDate": "2020-09-09T08:00:04.0Z",
+    "titleText": "Alien",
+    "mainText": "Parece que o diretor Ridley Scott não desistiu de fazer um novo filme do Alien. O cineasta disse à Forbes que está pensando em um novo filme da saga com novos questionamentos. Recentemente Ridley Scott fez Prometheus e Alien Covenent, nenhum dois dois agradou muito e agora o cineasta pensa em dar um novo rumo à mitologia da saga Alien",
+    "redirectionUrl": "https://www.amazon.com"
+  }
+]
